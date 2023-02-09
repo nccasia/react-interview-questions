@@ -19,7 +19,7 @@
 - Animation
 - Theming
 
-### 3. Javascript
+### [3. Javascript](javascript.md)
 - Scope, let - const
 - Import - Export
 - Primitive - Reference type
@@ -32,7 +32,7 @@
 - Authen: JWT, Session/Cookie and Local Storage
 - Canvas (nth)
 
-### 4. Typescript
+### [4. Typescript](typescript.md)
 - Class - Abtract - OOP
 - Nullable - Undefinedable - Never
 - Interface - Type - Enum
