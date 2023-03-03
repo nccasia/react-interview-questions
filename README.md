@@ -2,22 +2,24 @@
 
 ## Checklist/Questions
 
-### 1. HTML/CSS
+### [1. HTML](html.md)
 - Semantic
+- Block - Inline
 - Link - Script
+
+### [2. CSS](css.md)
 - Variable
 - Box model
 - Position
 - Flexbox
 - Grid
-- Block - Inline
 - Responsive
 - Transform
 - Transition
 - Animation
 - Theming
 
-### 2. Javascript
+### [3. Javascript](javascript.md)
 - Scope, let - const
 - Import - Export
 - Primitive - Reference type
@@ -30,7 +32,7 @@
 - Authen: JWT, Session/Cookie and Local Storage
 - Canvas (nth)
 
-### 3. Typescript
+### [4. Typescript](typescript.md)
 - Class - Abtract - OOP
 - Nullable - Undefinedable - Never
 - Interface - Type - Enum
@@ -38,7 +40,7 @@
 - Generic type
 - Decorator
 
-### 4. React
+### 5. React
 - JSX - Element
 - Virtual DOM and Component Rendering
 - Styling for component: inline, CSS Module, 3rd party lib (Theming)
